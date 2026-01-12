@@ -429,8 +429,8 @@
   "social": {
     "facebookUrl": "https://www.facebook.com/profile.php?id=61574672374571",
     "footerImageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_0877.jpeg",
-    "airbnbUrl": "https://airbnb.com",
-    "bookingUrl": "https://booking.com"
+    "airbnbUrl": "https://www.airbnb.com/rooms/1368544172241138040?guests=1&adults=1&s=67&unique_share_id=e0416d3b-cdde-46da-a194-b2065a2b20c4",
+    "bookingUrl": ""
   },
   "emailJs": {
     "serviceId": "",
@@ -461,6 +461,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "Gw7IYRe/cn0U6WlwROhp5w==:lR1eIcWNhAW2/4Xp:Wwlrt7/dJcnlmBVnnSl3WUUGyDW7AUQsQjIQ5houL/UREdmev4dAKwytyzvpWYa3ME2mahBgsWQ="
+    "encryptedToken": "nITiv/heu0yx3z056Tyu1g==:0JP8BtX3H0SkImEJ:eyBkwFX5+vuniyUucpRbNYBU9A3ESUVJFcJAbo2d6eros7jon32Pm7mbseGR8de2W1gAG6D/2ZQ="
   }
 }
