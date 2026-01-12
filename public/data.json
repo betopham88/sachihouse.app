@@ -34,7 +34,7 @@
     }
   ],
   "accessInfo": {
-    "train": "Haneda Airport ✈️\n🚝 Keikyu Line → (through service) Toei Asakusa Line\n🔁 Transfer to Toei Shinjuku Line\n🚇 Ojima Station｜ 💳 ~¥600–¥800\n\nNarita Airport ✈️ \n🚝 Keisei Line toward Tokyo\n🔁 Transfer to Toei Shinjuku Line (via Motoyawata / Yawata area)\n🚇 Ojima Station｜ 💳 ~¥900–¥1,300",
+    "train": "Haneda Airport ✈️\n🚝 Keikyu Line → (through service) Toei Asakusa Line\n🔁 Transfer to Toei Shinjuku Line\n🚇 Ojima Station\n⏱️ ~50–60 min ｜ 💳 ~¥600–¥800\n\nNarita Airport ✈️ \n🚝 Keisei Line toward Tokyo\n🔁 Transfer to Toei Shinjuku Line (via Motoyawata / Yawata area)\n🚇 Ojima Station\n⏱️ ~80–90 min ｜ 💳 ~¥900–¥1,300",
     "airport": "Haneda Airport ✈️\n🚌 Airport Limousine Bus to Tokyo Station / Kinshicho area\n🚇 Toei Shinjuku Line → Ojima Station\n⏱️ ~60–75 min ｜ 💳 ~¥1,000–¥1,400\n\nNarita Airport ✈️ \n🚌 Airport Bus to Ichinoe / Tokyo area\n🚇 Toei Shinjuku Line → Ojima Station\n⏱️ ~80–95 min ｜ 💳 ~¥1,300–¥1,700",
     "checkIn": "🕒 Check-in: 15:00–22:00\n🚪 Check-out: 10:00\n⏳ Early check-in and late check-out are subject to availability.",
     "youtubeGuideUrl": "https://youtu.be/Er6fYKBaikI"
@@ -463,6 +463,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "L/AeaCu6awZJIH6m7PL05A==:txDij0s9F4HsYDCY:MZiM3TbYA+Xok2vdSjsY+O3u9Vld5wIUDWx/yE5rWQTRqV9qNilGBmZSmupm8IhYtCsbjdIlKmo="
+    "encryptedToken": "XPUzMDnsMTpdq49YSCNMoA==:nLJKWJUZmmK8/JjK:+WOuKqMjkE2dOLD8tZorAgNAMBB3qRPM7mZtoxmisG01c5ijDWzklAohJm+u1bc1Li3Js2+42Ko="
   }
 }
