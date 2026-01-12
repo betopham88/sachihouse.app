@@ -69,6 +69,10 @@
       {
         "guests": 7,
         "price": 4100
+      },
+      {
+        "guests": 8,
+        "price": 3800
       }
     ],
     "cleaning": [
@@ -463,6 +467,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "RADa5TA3x+hJcjCpTciI0w==:cEOx71iKsuxy5MK8:YxyDNqL9if406Gm5HE288XkGpyEdVcrxBAcP0kqfbm9DoEYAzqw8SfiHD/v4r67+sDq5m0Z9Afk="
+    "encryptedToken": "avE9twGUQTIb0DS7NfDHCQ==:KLILYq0dYqg35Wwd:KG8s0Oxez2yo3F8K+gCtlZQDZOxeLds0IX5nFhdJTopfboCGv4PAT4O79BcBHnu7cT3UgYdVGZ4="
   }
 }
