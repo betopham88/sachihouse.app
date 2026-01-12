@@ -16,15 +16,21 @@
   "highlights": [
     {
       "id": "h1",
-      "title": "600m from Ojima Station",
-      "description": "",
+      "title": "Convenient Location",
+      "description": "8-minute walk to Ōjima Station with direct access to Shinjuku in 18 minutes.",
       "icon": "CheckCircle"
     },
     {
       "id": "h2",
-      "title": "Air conditioning",
-      "description": "Stay cool in the Tokyo summer heat.",
-      "icon": "Wind"
+      "title": "Private & Spacious House",
+      "description": "A private 3LDK home (~60㎡) suitable for 2–7 guests.",
+      "icon": "CheckCircle"
+    },
+    {
+      "id": "1768218692653",
+      "title": "Family-Friendly Area",
+      "description": "A large park with playground equipment is right in front of the house.",
+      "icon": "Coffee"
     }
   ],
   "accessInfo": {
@@ -455,6 +461,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "dGbXYTxK7aRZKN+6UC+Fww==:l+49kdPPM9uUtdrG:7Vrcu02/MoMANfmpH6TI48R/5LfNFH2hGgaxp1g6TgdsVtb/b7nPXQvi8kmSqc3pQj+kFdAZ04I="
+    "encryptedToken": "cXQrJh888s54gDAeDriHHw==:dQIkFuyW6CkxpQg8:0nFM5hxmS5a34aXHkqNsU0gT0AB/yj9GRnc6HCFpEoKrzKPv05ytR2d4pAhzYpeiXkkRtsAKabs="
   }
 }
