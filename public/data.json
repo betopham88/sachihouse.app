@@ -2,7 +2,7 @@
   "name": "SachiHouse: 600m to Ojima Station/ Park View",
   "subtitle": "Max 8 pax, 3 Bed Rooms, 4 Beds, Dinning, Toilet",
   "description": "Located in Ōjima, Kōtō-ku, Tokyo, perfect for 2–8 guests. Just around 8 minutes’ walk to Ōjima Station, one train go straight to Shinjuku (18min by express train and 26min by local train). A large park in front of the house, with swings and slides is right in front — great for families. Fully equipped with IH kitchen, 140L fridge, microwave, rice cooker, 32″ smart TV, air conditioner, and dining table.\n\nThe space\n🏠 Clean and Spacious House\n・A fully renovated 3LDK (~60㎡) house exclusively for guest use.\n・Accommodates up to 7 guests with three bedrooms.\n\n🚉 Convenient Location\n・Just a 8-minute walk from Ojima Station on the Toei Shinjuku Line.\n・Only 2-minute walk to the traditional shopping street (Sun road Nakanohashi)\n・Conveniently located near convenience stores, supermarkets, drugstores, and various restaurants.\n\n🛏️ Comfortable Sleeping Arrangements\n・Each bedroom is furnished with beds and mattress to ensure a relaxing sleep.\n\n【Family-Friendly Amenities】\n・Baby chair are available at no extra cost.\n・Youtube connected with TV are provided for entertainment.\n\n📶 Unlimited High-Speed Wi-Fi\n・Enjoy free, high-speed Wi-Fi suitable for streaming videos without interruption.\n\n💻 Remote Work Ready\n・Equipped with a dedicated desk, chair for remote work.\n・High-speed Wi-Fi is provided for seamless online activities.\n\n🛋️ Dining & Kitchen\n・Dining table with 4 seats and 1 bench and 1 baby high seat.\n・Fully equipped with a refrigerator, microwave, rice cooker, and other kitchen appliances.\n・General tableware and cooking utensils are available.\n・A television connected to Youtube and internet.\n\n🛏️ Bedrooms\n・Bedroom 201: Two Semi-double beds, futons, air conditioning, and one electric fan, and working desk/chair\n・Bedroom 301: One Semi-double bed, futons, air conditioning and one electric fan.\n・Bedroom 302: One double bed, air conditioning, working desk/chair.\n\n🧺 Laundry Room\n・Washing machine at no extra cost. Dry on balcony or use coin laundry nearby.\n\n🧼 Bathroom Facilities\n・Washroom: Independent washbasin with a hairdryer.\n・Shower Rooms: located on the 1st floor.\n・Features automatic water heaters for easy hot water access.\n・Body soap and shampoo are provided.\n\n🚽Toilets: Located on the 1st floor, equipped with bidet and seat warming functions.\n\n🧴 Amenities\n・Face towels and bath towels are provided for each guest. Extra set will be charged for 300 JPY. Please contact to the host in advance.\n・Body soap, shampoo, and conditioner are available.\n・Laundry detergent are provided.\n\n🚭 Smoking Policy\n・Smoking is prohibited indoors, limited outdoors. Thank you very much for your understandings and your cooperation.\n\n🔑 Guest Access\nGuests have exclusive access to the entire house and all amenities.\n\n📄 Additional Information\nFor non-Japanese guests, passport information is required prior to check-in.\nRegistration details\n\nHotels and Inns Business Act | 江東区保健所 | ６江健生環き第１７７号",
-  "address": "3-chōme Shinjuku, Shinjuku City, Tokyo 160-0022",
+  "address": "7-chōme Ojima, Koto city, Tokyo 136-0072",
   "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6480.726578162958!2d139.83643927634333!3d35.69267672934421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018889403785259%3A0xcf9ef3dd8e74dddb!2s7-ch%C5%8Dme-15-22%20%C5%8Cjima%2C%20Koto%20City%2C%20Tokyo%20136-0072!5e0!3m2!1sen!2sjp!4v1768213065207!5m2!1sen!2sjp",
   "hostName": "Sachiko",
   "hostImageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/cropped-IMG_0877.jpeg",
@@ -34,9 +34,9 @@
     }
   ],
   "accessInfo": {
-    "train": "• 5 min walk from Shinjuku Station (East Exit).\n• 2 min walk from Shinjuku-sanchome Station (C5 Exit).\n• Direct access via Narita Express (N'EX) from Narita Airport.",
-    "airport": "• Narita (NRT): ~85 mins by Limousine Bus or Train.\n• Haneda (HND): ~45 mins by Train or Taxi.\n• Airport Limousine Bus stops at nearby Hilton Tokyo.",
-    "checkIn": "Check-in: 15:00 - 22:00\nCheck-out: 11:00\n\n*Early check-in/late check-out depends on availability.",
+    "train": "Haneda Airport ✈️\n🚝 Keikyu Line → (through service) Toei Asakusa Line\n🔁 Transfer to Toei Shinjuku Line\n🚇 Ojima Station｜ 💳 ~¥600–¥800\n\nNarita Airport ✈️ \n🚝 Keisei Line toward Tokyo\n🔁 Transfer to Toei Shinjuku Line (via Motoyawata / Yawata area)\n🚇 Ojima Station｜ 💳 ~¥900–¥1,300",
+    "airport": "Haneda Airport ✈️\n🚌 Airport Limousine Bus to Tokyo Station / Kinshicho area\n🚇 Toei Shinjuku Line → Ojima Station\n⏱️ ~60–75 min ｜ 💳 ~¥1,000–¥1,400\n\nNarita Airport ✈️ \n🚌 Airport Bus to Ichinoe / Tokyo area\n🚇 Toei Shinjuku Line → Ojima Station\n⏱️ ~80–95 min ｜ 💳 ~¥1,300–¥1,700",
+    "checkIn": "🕒 Check-in: 15:00–22:00\n🚪 Check-out: 10:00\n⏳ Early check-in and late check-out are subject to availability.",
     "youtubeGuideUrl": "https://youtu.be/Er6fYKBaikI"
   },
   "additionalRules": "• Please separate your garbage according to the manual.\n• Lost keys will incur a replacement fee of ¥10,000.\n• Check-out is strictly at 11:00 AM to allow for cleaning.",
@@ -407,7 +407,9 @@
       "title": "Bedroom_201",
       "description": "2 Semi-double beds, Working table",
       "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_1606-scaled.jpg",
-      "photos": []
+      "photos": [
+        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/16.avif"
+      ]
     },
     {
       "id": "s2",
@@ -461,6 +463,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "cXQrJh888s54gDAeDriHHw==:dQIkFuyW6CkxpQg8:0nFM5hxmS5a34aXHkqNsU0gT0AB/yj9GRnc6HCFpEoKrzKPv05ytR2d4pAhzYpeiXkkRtsAKabs="
+    "encryptedToken": "L/AeaCu6awZJIH6m7PL05A==:txDij0s9F4HsYDCY:MZiM3TbYA+Xok2vdSjsY+O3u9Vld5wIUDWx/yE5rWQTRqV9qNilGBmZSmupm8IhYtCsbjdIlKmo="
   }
 }
