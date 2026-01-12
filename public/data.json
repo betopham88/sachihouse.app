@@ -8,7 +8,7 @@
   "hostImageUrl": "https://picsum.photos/100/100?random=10",
   "isSuperhost": true,
   "superhostSince": "2023",
-  "themeColor": "airbnb",
+  "themeColor": "blue",
   "maxGuests": 7,
   "bedrooms": 3,
   "beds": 4,
@@ -357,6 +357,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "HTznEgNHUMxLHS3SeM4q3w==:yraRYViDwvlyl1lE:4YZ0vsP4Uw4QROBv5yDxYBONta0M+A8FiP4Dx1SpARYCpL53ys/bJ1cyKbiNvFRbtFO6c7MlYJw="
+    "encryptedToken": "urmtKf2CkFFXBur7QNSQ0Q==:dFgLId0kNPC8/VZZ:hJLyjYWeDlwKZtF8CxDM3yKkMDu+whC9/4N8SoGM5LCYjFM1ae3YK2Lmv1zSbsi5JiPeQ2ik8b0="
   }
 }
