@@ -259,23 +259,23 @@
     },
     {
       "id": "1768213355062",
-      "url": "",
-      "caption": "New Photo",
-      "category": "other",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/1.avif",
+      "caption": "Kitchen",
+      "category": "kitchen",
       "showOnHome": false
     },
     {
       "id": "1768213355597",
-      "url": "",
-      "caption": "New Photo",
-      "category": "other",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/3.avif",
+      "caption": "Microwave",
+      "category": "kitchen",
       "showOnHome": false
     },
     {
       "id": "1768213355789",
-      "url": "",
-      "caption": "New Photo",
-      "category": "other",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/2.avif",
+      "caption": "Rice Cooker",
+      "category": "kitchen",
       "showOnHome": false
     },
     {
@@ -360,6 +360,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "ugsNtVIqMcS9tCYY5R2mzQ==:x1/1Jaz0W8GnQGSP:GV48JdqCLZlkXjFfvA3qPCaJmQ49VJR8oWG2t+my9VIifI/o6U9JxoFIm3Njud/1NFl46LAPpuU="
+    "encryptedToken": "JIF8saMMJipOuJFD9PELYw==:AtbMOxycppeVCAa/:5DMM9tKKUpJdEF6Qy7TbOH2RJKUEySv6kr0d0AmiK1pUlllIMwBfTFI+WBSCVNiJcsC2PUTY1X4="
   }
 }
