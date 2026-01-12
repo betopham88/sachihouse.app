@@ -205,6 +205,10 @@
     {
       "id": "bedroom-302",
       "label": "Bedroom_302"
+    },
+    {
+      "id": "wash-room",
+      "label": "Wash Room"
     }
   ],
   "galleryImages": [
@@ -280,16 +284,79 @@
     },
     {
       "id": "1768213355980",
-      "url": "",
-      "caption": "New Photo",
-      "category": "other",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/22.avif",
+      "caption": "View from the Park",
+      "category": "exterior",
       "showOnHome": false
     },
     {
       "id": "1768213356188",
-      "url": "",
-      "caption": "New Photo",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/23.avif",
+      "caption": "Play ground",
+      "category": "exterior",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217170828",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/7.avif",
+      "caption": "Air purifier",
       "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217252444",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/31.avif",
+      "caption": "Streamer",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217252668",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/17.avif",
+      "caption": "Clothes rack",
+      "category": "bedroom-201",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217363366",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/8.avif",
+      "caption": "Baby seat",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217363549",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/26.avif",
+      "caption": "Fire extinguisher",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217437293",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/20.avif",
+      "caption": "Wash Room",
+      "category": "wash-room",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217437500",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/18.avif",
+      "caption": "Shower",
+      "category": "wash-room",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217437667",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/19.avif",
+      "caption": "Shower",
+      "category": "wash-room",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217437827",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/21.avif",
+      "caption": "Washing machine",
+      "category": "wash-room",
       "showOnHome": false
     }
   ],
@@ -360,6 +427,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "JIF8saMMJipOuJFD9PELYw==:AtbMOxycppeVCAa/:5DMM9tKKUpJdEF6Qy7TbOH2RJKUEySv6kr0d0AmiK1pUlllIMwBfTFI+WBSCVNiJcsC2PUTY1X4="
+    "encryptedToken": "SfZjp4eds26ktsZc7Qbg1w==:QohLm1twYsgICMX2:ih5bzxTbWtnnQ978yIOEP7BSAqygdjQXkwLrWKBZ108idUwdCjgeI2UiCSY4pY9shgRNnZeQdn8="
   }
 }
