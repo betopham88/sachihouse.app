@@ -1,1 +1,362 @@
-{}
+{
+  "name": "Zen Retreat: Shinjuku Hidden Gem",
+  "subtitle": "Superhost • Tokyo, Japan",
+  "description": "Located in Ōjima, Kōtō-ku, Tokyo, perfect for 2–8 guests.\n\nJust around 8 minutes’ walk to Ōjima Station, one train go straight to Shinjuku (18min by express train and 26min by local train)\n\nA large park in front of the house, with swings and slides is right in front — great for families.\n\nFully equipped with IH kitchen, 140L fridge, microwave, rice cooker, 32″ smart TV, air conditioner, and dining table.\n\nThe space\n🏠 Clean and Spacious House\n・A fully renovated 3LDK (~60㎡) house exclusively for guest use.\n・Accommodates up to 7 guests with three bedrooms.\n\n🚉 Convenient Location\n・Just a 8-minute walk from Ojima Station on the Toei Shinjuku Line.\n・Only 2-minute walk to the traditional shopping street (Sun road Nakanohashi)\n・Conveniently located near convenience stores, supermarkets, drugstores, and various restaurants.\n\n🛏️ Comfortable Sleeping Arrangements\n・Each bedroom is furnished with beds and mattress to ensure a relaxing sleep.\n\n【Family-Friendly Amenities】\n・Baby chair are available at no extra cost.\n・Youtube connected with TV are provided for entertainment.\n\n📶 Unlimited High-Speed Wi-Fi\n・Enjoy free, high-speed Wi-Fi suitable for streaming videos without interruption.\n\n💻 Remote Work Ready\n・Equipped with a dedicated desk, chair for remote work.\n・High-speed Wi-Fi is provided for seamless online activities.\n\n🛋️ Dining & Kitchen\n・Dining table with 4 seats and 1 bench and 1 baby high seat.\n・Fully equipped with a refrigerator, microwave, rice cooker, and other kitchen appliances.\n・General tableware and cooking utensils are available.\n・A television connected to Youtube and internet.\n\n🛏️ Bedrooms\n・Bedroom 201: Two Semi-double beds, futons, air conditioning, and one electric fan, and working desk/chair\n・Bedroom 301: One Semi-double bed, futons, air conditioning and one electric fan.\n・Bedroom 302: One double bed, air conditioning, working desk/chair.\n\n🧺 Laundry Room\n・Washing machine at no extra cost. Dry on balcony or use coin laundry nearby.\n\n🧼 Bathroom Facilities\n・Washroom: Independent washbasin with a hairdryer.\n・Shower Rooms: located on the 1st floor.\n・Features automatic water heaters for easy hot water access.\n・Body soap and shampoo are provided.\n\n🚽Toilets: Located on the 1st floor, equipped with bidet and seat warming functions.\n\n🧴 Amenities\n・Face towels and bath towels are provided for each guest. Extra set will be charged for 300 JPY. Please contact to the host in advance.\n・Body soap, shampoo, and conditioner are available.\n・Laundry detergent are provided.\n\n🚭 Smoking Policy\n・Smoking is prohibited indoors, limited outdoors. Thank you very much for your understandings and your cooperation.\n\n🔑 Guest Access\nGuests have exclusive access to the entire house and all amenities.\n\n📄 Additional Information\nFor non-Japanese guests, passport information is required prior to check-in.\nRegistration details\nHotels and Inns Business Act | 江東区保健所 | ６江健生環き第１７７号",
+  "address": "3-chōme Shinjuku, Shinjuku City, Tokyo 160-0022",
+  "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.828030571618!2d139.69932561524664!3d35.69089853744658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd0d6b1ba1f%3A0x1c32a1f1ecacfdd5!2sShinjuku%20Station!5e0!3m2!1sen!2sjp!4v1620000000000!5m2!1sen!2sjp",
+  "hostName": "Kenji",
+  "hostImageUrl": "https://picsum.photos/100/100?random=10",
+  "isSuperhost": true,
+  "superhostSince": "2023",
+  "themeColor": "blue",
+  "maxGuests": 7,
+  "bedrooms": 3,
+  "beds": 4,
+  "baths": 1,
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "Dedicated workspace",
+      "description": "A room with wifi that's well-suited for working.",
+      "icon": "Monitor"
+    },
+    {
+      "id": "h2",
+      "title": "Air conditioning",
+      "description": "Stay cool in the Tokyo summer heat.",
+      "icon": "Wind"
+    }
+  ],
+  "accessInfo": {
+    "train": "• 5 min walk from Shinjuku Station (East Exit).\n• 2 min walk from Shinjuku-sanchome Station (C5 Exit).\n• Direct access via Narita Express (N'EX) from Narita Airport.",
+    "airport": "• Narita (NRT): ~85 mins by Limousine Bus or Train.\n• Haneda (HND): ~45 mins by Train or Taxi.\n• Airport Limousine Bus stops at nearby Hilton Tokyo.",
+    "checkIn": "Check-in: 15:00 - 22:00\nCheck-out: 11:00\n\n*Early check-in/late check-out depends on availability.",
+    "youtubeGuideUrl": "https://youtu.be/Er6fYKBaikI"
+  },
+  "additionalRules": "• Please separate your garbage according to the manual.\n• Lost keys will incur a replacement fee of ¥10,000.\n• Check-out is strictly at 11:00 AM to allow for cleaning.",
+  "pricing": {
+    "rates": [
+      {
+        "guests": 1,
+        "price": 5000
+      },
+      {
+        "guests": 2,
+        "price": 5000
+      },
+      {
+        "guests": 3,
+        "price": 4700
+      },
+      {
+        "guests": 4,
+        "price": 4500
+      },
+      {
+        "guests": 5,
+        "price": 4300
+      },
+      {
+        "guests": 6,
+        "price": 4000
+      },
+      {
+        "guests": 7,
+        "price": 4000
+      }
+    ],
+    "cleaning": [
+      {
+        "minGuests": 1,
+        "maxGuests": 3,
+        "price": 5000
+      },
+      {
+        "minGuests": 4,
+        "maxGuests": 4,
+        "price": 8000
+      },
+      {
+        "minGuests": 5,
+        "maxGuests": 7,
+        "price": 13000
+      }
+    ],
+    "childDiscountPercent": 30,
+    "childAgeMin": 3,
+    "childAgeMax": 10,
+    "longStayDiscountPercent": 10,
+    "longStayMinNights": 7
+  },
+  "rules": [
+    {
+      "id": "1",
+      "text": "No smoking inside",
+      "icon": "CigaretteOff",
+      "type": "forbidden"
+    },
+    {
+      "id": "2",
+      "text": "No parties or events",
+      "icon": "PartyPopper",
+      "type": "forbidden"
+    },
+    {
+      "id": "3",
+      "text": "Quiet hours after 10 PM",
+      "icon": "Moon",
+      "type": "allowed"
+    },
+    {
+      "id": "4",
+      "text": "Remove shoes at entrance",
+      "icon": "Footprints",
+      "type": "allowed"
+    }
+  ],
+  "manual": [
+    {
+      "id": "m1",
+      "title": "Wi-Fi Connection",
+      "content": "Network: TokyoZen_5G\nPassword: sakurablossom\n\nThe router is located near the TV stand.",
+      "imageUrl": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "m2",
+      "title": "Trash Separation",
+      "content": "Burnable: Mon/Thu. Recyclable (Bottles/Cans): Fri. Plastic: Wed.\nPlease use the designated bins on the balcony.",
+      "imageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "m3",
+      "title": "Hot Water Panel",
+      "content": "Press the \"Power\" button on the wall panel in the kitchen. Set temp to 40C before using the shower.",
+      "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "id": "m4",
+      "title": "Air Conditioner",
+      "content": "Remote is on the wall. \"Reibo\" is Cooling (Blue), \"Danbo\" is Heating (Red). Please turn off when leaving.",
+      "imageUrl": "https://images.unsplash.com/photo-1599316782487-111d4e463a8e?auto=format&fit=crop&q=80&w=600"
+    }
+  ],
+  "icalFeeds": [
+    {
+      "id": "cal1",
+      "name": "Airbnb",
+      "url": "https://www.airbnb.com/calendar/ical/...",
+      "lastSynced": "2026-01-12T07:14:32.274Z"
+    },
+    {
+      "id": "cal2",
+      "name": "Booking.com",
+      "url": "https://admin.booking.com/...",
+      "lastSynced": "2026-01-12T07:14:32.274Z"
+    }
+  ],
+  "amenities": [
+    "High-speed Wifi",
+    "Kitchen",
+    "Washing Machine",
+    "Air conditioning",
+    "Hair dryer",
+    "Refrigerator",
+    "Microwave",
+    "Bathtub",
+    "Rice cooker",
+    "Electric kettle",
+    "Self check-in",
+    "Shower",
+    "Steamer"
+  ],
+  "galleryCategories": [
+    {
+      "id": "plan",
+      "label": "Floor Plan"
+    },
+    {
+      "id": "living",
+      "label": "Living Room"
+    },
+    {
+      "id": "kitchen",
+      "label": "Kitchen & Dining"
+    },
+    {
+      "id": "bedroom",
+      "label": "Bedroom"
+    },
+    {
+      "id": "bathroom",
+      "label": "Bathroom"
+    },
+    {
+      "id": "exterior",
+      "label": "Exterior"
+    },
+    {
+      "id": "other",
+      "label": "Other"
+    }
+  ],
+  "galleryImages": [
+    {
+      "id": "g1",
+      "url": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&q=80&w=1600",
+      "caption": "Spacious Living Area with Sofa",
+      "category": "plan",
+      "showOnHome": true
+    },
+    {
+      "id": "g1_2",
+      "url": "https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&q=80&w=800",
+      "caption": "Modern TV Setup",
+      "category": "living",
+      "showOnHome": true
+    },
+    {
+      "id": "g1_3",
+      "url": "https://images.unsplash.com/photo-1595514020180-30239c6ca9f5?auto=format&fit=crop&q=80&w=800",
+      "caption": "Relaxing Corner",
+      "category": "living"
+    },
+    {
+      "id": "g2",
+      "url": "https://images.unsplash.com/photo-1556912173-3db996e16154?auto=format&fit=crop&q=80&w=800",
+      "caption": "Fully Equipped Kitchenette",
+      "category": "kitchen",
+      "showOnHome": true
+    },
+    {
+      "id": "g2_2",
+      "url": "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?auto=format&fit=crop&q=80&w=800",
+      "caption": "Cooking Essentials",
+      "category": "kitchen"
+    },
+    {
+      "id": "g2_3",
+      "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&q=80&w=800",
+      "caption": "Dining Table",
+      "category": "kitchen"
+    },
+    {
+      "id": "g3",
+      "url": "https://images.unsplash.com/photo-1580237072617-771c3ecc4a24?auto=format&fit=crop&q=80&w=1600",
+      "caption": "3LDK Floor Layout",
+      "category": "plan"
+    },
+    {
+      "id": "g4",
+      "url": "https://images.unsplash.com/photo-1616594039964-40891a909d99?auto=format&fit=crop&q=80&w=800",
+      "caption": "Master Bedroom",
+      "category": "bedroom",
+      "showOnHome": true
+    },
+    {
+      "id": "g4_2",
+      "url": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&q=80&w=800",
+      "caption": "Second Bedroom",
+      "category": "bedroom"
+    },
+    {
+      "id": "g4_3",
+      "url": "https://images.unsplash.com/photo-1522771753035-4850d3a5d7e8?auto=format&fit=crop&q=80&w=800",
+      "caption": "Cozy Bedding",
+      "category": "bedroom"
+    },
+    {
+      "id": "g5",
+      "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800",
+      "caption": "Clean Shower Room",
+      "category": "bathroom",
+      "showOnHome": true
+    },
+    {
+      "id": "g5_2",
+      "url": "https://images.unsplash.com/photo-1554244933-d876deb6b2ff?auto=format&fit=crop&q=80&w=800",
+      "caption": "Washbasin and Amenities",
+      "category": "bathroom"
+    },
+    {
+      "id": "g6",
+      "url": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&q=80&w=800",
+      "caption": "House Exterior",
+      "category": "exterior"
+    },
+    {
+      "id": "g6_2",
+      "url": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&q=80&w=800",
+      "caption": "Street View",
+      "category": "exterior"
+    }
+  ],
+  "sleepingArrangements": [
+    {
+      "id": "s1",
+      "title": "Bedroom 1",
+      "description": "2 semi-double beds, futons",
+      "imageUrl": "https://picsum.photos/300/200?random=20",
+      "photos": [
+        "https://picsum.photos/600/400?random=20",
+        "https://picsum.photos/600/400?random=30",
+        "https://picsum.photos/600/400?random=31"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Bedroom 2",
+      "description": "1 semi-double bed, futons",
+      "imageUrl": "https://picsum.photos/300/200?random=21",
+      "photos": [
+        "https://picsum.photos/600/400?random=21",
+        "https://picsum.photos/600/400?random=32"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Bedroom 3",
+      "description": "1 double bed",
+      "imageUrl": "https://picsum.photos/300/200?random=22",
+      "photos": [
+        "https://picsum.photos/600/400?random=22"
+      ]
+    }
+  ],
+  "social": {
+    "facebookUrl": "https://www.facebook.com/profile.php?id=61574672374571",
+    "footerImageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_0877.jpeg",
+    "airbnbUrl": "https://airbnb.com",
+    "bookingUrl": "https://booking.com"
+  },
+  "emailJs": {
+    "serviceId": "",
+    "templateId": "",
+    "publicKey": ""
+  },
+  "titles": {
+    "about": "About this space",
+    "sleeping": "Where you'll sleep",
+    "amenities": "What this place offers",
+    "access": "Getting Here",
+    "accessSubtitle": "Located in the heart of Tokyo, our home is easily accessible by train, bus, or taxi.",
+    "pricing": "Pricing & Availability",
+    "pricingSubtitle": "Transparent pricing. No hidden surprises.",
+    "rules": "House Rules",
+    "rulesSubtitle": "To ensure a comfortable stay for you and our neighbors, please observe the following rules.",
+    "manual": "House Manual",
+    "manualSubtitle": "How to use appliances and amenities.",
+    "menuHome": "Home",
+    "menuAccess": "Access",
+    "menuPricing": "Pricing",
+    "menuRules": "Rules",
+    "menuManual": "Manual"
+  },
+  "github": {
+    "enabled": true,
+    "owner": "betopham88",
+    "repo": "sachihouse.app",
+    "branch": "main",
+    "path": "public/data.json",
+    "encryptedToken": "FRzau12Yf8BF1p7cs/pu0g==:ttSyOSyqcTSE2iUk:64b1M7PQqT0XoxOl4NGptZMNSDMbuTCAyCUekKyiugpH6HqFfHus04JLq+CkcFRfgSlOmY0wlBg="
+  }
+}
