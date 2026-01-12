@@ -175,10 +175,6 @@
       "label": "Floor Plan"
     },
     {
-      "id": "living",
-      "label": "Living Room"
-    },
-    {
       "id": "kitchen",
       "label": "Kitchen & Dining"
     },
@@ -245,7 +241,56 @@
       "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/5.avif",
       "caption": "Kitchen",
       "category": "kitchen",
+      "showOnHome": false
+    },
+    {
+      "id": "1768213279158",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/6.avif",
+      "caption": "Dining Table",
+      "category": "kitchen",
       "showOnHome": true
+    },
+    {
+      "id": "1768213280885",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/13.avif",
+      "caption": "Parkview",
+      "category": "bedroom-301",
+      "showOnHome": false
+    },
+    {
+      "id": "1768213355062",
+      "url": "",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768213355597",
+      "url": "",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768213355789",
+      "url": "",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768213355980",
+      "url": "",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768213356188",
+      "url": "",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
     }
   ],
   "sleepingArrangements": [
@@ -315,6 +360,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "5gKWEwY+f8lfgvL2qFKfcg==:XK7jmSqzrUk8J8NB:JpTPIbV45Mb/Mt/x8CunSq9QOT1p4qrakkC+6xBGTWYrQKoN3Gs1qk00M7fq+m3OralJZwl55ys="
+    "encryptedToken": "ugsNtVIqMcS9tCYY5R2mzQ==:x1/1Jaz0W8GnQGSP:GV48JdqCLZlkXjFfvA3qPCaJmQ49VJR8oWG2t+my9VIifI/o6U9JxoFIm3Njud/1NFl46LAPpuU="
   }
 }
