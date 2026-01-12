@@ -39,7 +39,7 @@
     "checkIn": "🕒 Check-in: 15:00–22:00\n🚪 Check-out: 10:00\n⏳ Early check-in and late check-out are subject to availability.",
     "youtubeGuideUrl": "https://youtu.be/Er6fYKBaikI"
   },
-  "additionalRules": "• Please separate your garbage according to the manual.\n• Lost keys will incur a replacement fee of ¥10,000.\n• Check-out is strictly at 11:00 AM to allow for cleaning.",
+  "additionalRules": "🔐Security / Guests\n・Only registered guests are allowed to stay.\n・Do not share the entrance PIN code with non-guests.\n\n💡Energy & Usage\n・Please turn off air conditioners, lights, and TV when leaving the room.\n\n🚽Toilet Rules\n・Please flush toilet paper only.\n・Do not flush wipes or sanitary products.\n\n🗑️Waste\n・Use designated garbage bins on the 1st floor.\n\n⚠️Damages\n・Please report any damage or stains immediately.\n・Guests may be charged for damages caused.",
   "pricing": {
     "rates": [
       {
@@ -101,19 +101,19 @@
   "rules": [
     {
       "id": "1",
-      "text": "No smoking inside",
+      "text": "Smoking is strictly prohibited inside the property.",
       "icon": "CigaretteOff",
       "type": "forbidden"
     },
     {
       "id": "2",
-      "text": "No parties or events",
+      "text": "Parties, events, or gatherings are not allowed.",
       "icon": "PartyPopper",
       "type": "forbidden"
     },
     {
       "id": "3",
-      "text": "Quiet hours after 10 PM",
+      "text": "Quiet hours after 9:00 PM",
       "icon": "Moon",
       "type": "allowed"
     },
@@ -122,6 +122,12 @@
       "text": "Remove shoes at entrance",
       "icon": "Footprints",
       "type": "allowed"
+    },
+    {
+      "id": "1768224297123",
+      "text": "Pets are not allowed in the property.",
+      "icon": "Dog",
+      "type": "forbidden"
     }
   ],
   "manual": [
@@ -468,6 +474,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "5bmIQhHK0LDgLzz6BR6Q6A==:xDAbxqLVLwxDAS8N:Ym5ZMPvDFZMFeQfoukYvySQ3BwUC9Ug5hnLXgx1Jn5cgyvEN+mv9Sbbdzhh70zTSaQcIReFv2wo="
+    "encryptedToken": "Zv90oIHAD1Ghz0O3CPgQmQ==:oBfqCkXuqetBaWXh:7QOjYZS6NUgDRA8wLfZuW/VhH6dXh93HFPxUnVzMAcwN2EpVB/E1p++GLQxBPkdAxewZgk8Q3u0="
   }
 }
