@@ -154,13 +154,7 @@
     {
       "id": "cal1",
       "name": "Airbnb",
-      "url": "https://www.airbnb.com/calendar/ical/...",
-      "lastSynced": "2026-01-12T07:14:32.274Z"
-    },
-    {
-      "id": "cal2",
-      "name": "Booking.com",
-      "url": "https://admin.booking.com/...",
+      "url": "https://www.airbnb.co.uk/calendar/ical/1368544172241138040.ics?s=d401505b50429aad58b8614141226d83",
       "lastSynced": "2026-01-12T07:14:32.274Z"
     }
   ],
@@ -467,6 +461,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "avE9twGUQTIb0DS7NfDHCQ==:KLILYq0dYqg35Wwd:KG8s0Oxez2yo3F8K+gCtlZQDZOxeLds0IX5nFhdJTopfboCGv4PAT4O79BcBHnu7cT3UgYdVGZ4="
+    "encryptedToken": "LfskCYSNb3GzOax1wlEyuw==:1v7vwgJ1IEpeFXED:Tp0/6WLK1h01bd0C9+79bcVDwd55L8nIkS3AMY4BQBmBMPFEsTGmSNIDUuLdtfEoZRxSug6Qwbs="
   }
 }
