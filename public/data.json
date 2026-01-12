@@ -224,7 +224,7 @@
       "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/16.avif",
       "caption": "2SD Beds",
       "category": "bedroom-201",
-      "showOnHome": true
+      "showOnHome": false
     },
     {
       "id": "1768205769656",
@@ -365,6 +365,34 @@
       "caption": "Floor Plan",
       "category": "plan",
       "showOnHome": false
+    },
+    {
+      "id": "1768217922589",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/29.avif",
+      "caption": "Toilet",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217971083",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_1606-scaled.jpg",
+      "caption": "2 SD Beds",
+      "category": "bedroom-201",
+      "showOnHome": true
+    },
+    {
+      "id": "1768217971411",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/27.avif",
+      "caption": "Cacuum cleaner",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768217971611",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/28.webp",
+      "caption": "Others",
+      "category": "other",
+      "showOnHome": false
     }
   ],
   "sleepingArrangements": [
@@ -434,6 +462,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "JoY8ZLs19RKtmEpGE4VgZw==:P5Z9kUyWWfy1reTY:o55wHJjAqriGv1Not2gc4PsO9fq8oxgixj/1htb5EOSRVb+TKC9KqqH2KZ4PXqEaWDdeaqH9g4I="
+    "encryptedToken": "HtMucgjkCPz3E+V/zCDTwg==:poOF5ODrGl8tZosj:HzGzK7PETavVrZK6zt18J5jTGm70oUm93o8hQLri0Ay2IeOlATM+85BULBZR2QIJlO09KcHmVbg="
   }
 }
