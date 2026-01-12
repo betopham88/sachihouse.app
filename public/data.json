@@ -171,14 +171,14 @@
     "Self check-in",
     "Shower",
     "Steamer",
-    "Fire extinguisher",
-    "Smoke alarm",
-    "Lock on bedroom door",
     "TV",
     "Wifi",
-    "Workspace",
+    "Smoke alarm",
+    "Fire extinguisher",
+    "Lock on bedroom door",
     "Hot water",
-    "Shampoo"
+    "Shampoo",
+    "Workspace"
   ],
   "galleryCategories": [
     {
@@ -436,8 +436,8 @@
   "social": {
     "facebookUrl": "https://www.facebook.com/profile.php?id=61574672374571",
     "footerImageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_0877.jpeg",
-    "airbnbUrl": "https://airbnb.com",
-    "bookingUrl": "https://booking.com"
+    "airbnbUrl": "https://www.airbnb.com/rooms/1368544172241138040?guests=1&adults=1&s=67&unique_share_id=e0416d3b-cdde-46da-a194-b2065a2b20c4",
+    "bookingUrl": ""
   },
   "emailJs": {
     "serviceId": "",
@@ -468,6 +468,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "7fNtAysOBqYgOmKUhIcitQ==:HNCBRqIdFFlbz+Di:xHdou0qscFw6fXoctsZ0Wq7ndegejXi7KopA64Qg3qTiBiKvII18N/9hRT9tnQMVoXznptiVaFA="
+    "encryptedToken": "5bmIQhHK0LDgLzz6BR6Q6A==:xDAbxqLVLwxDAS8N:Ym5ZMPvDFZMFeQfoukYvySQ3BwUC9Ug5hnLXgx1Jn5cgyvEN+mv9Sbbdzhh70zTSaQcIReFv2wo="
   }
 }
