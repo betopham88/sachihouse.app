@@ -205,7 +205,7 @@
       "url": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&q=80&w=1600",
       "caption": "Spacious Living Area with Sofa",
       "category": "plan",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "g1_2",
@@ -357,6 +357,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "urmtKf2CkFFXBur7QNSQ0Q==:dFgLId0kNPC8/VZZ:hJLyjYWeDlwKZtF8CxDM3yKkMDu+whC9/4N8SoGM5LCYjFM1ae3YK2Lmv1zSbsi5JiPeQ2ik8b0="
+    "encryptedToken": "yqOYTdw7t73xVkrNlOBPFg==:o8Zons8dkc2uNIyt:S/ocMYmBqfQL0MEvghxnnURhCUVfj3sLzwboji0UhSkhBC9r5Y0ymetQeD1ZdWsHDJfzJHMFxig="
   }
 }
