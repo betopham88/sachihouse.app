@@ -216,7 +216,7 @@
       "id": "g1_2",
       "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/4.avif",
       "caption": "Dinning Room",
-      "category": "living",
+      "category": "kitchen",
       "showOnHome": true
     },
     {
@@ -358,6 +358,13 @@
       "caption": "Washing machine",
       "category": "wash-room",
       "showOnHome": false
+    },
+    {
+      "id": "1768217799261",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/FloorPlan.avif",
+      "caption": "Floor Plan",
+      "category": "plan",
+      "showOnHome": false
     }
   ],
   "sleepingArrangements": [
@@ -427,6 +434,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "SfZjp4eds26ktsZc7Qbg1w==:QohLm1twYsgICMX2:ih5bzxTbWtnnQ978yIOEP7BSAqygdjQXkwLrWKBZ108idUwdCjgeI2UiCSY4pY9shgRNnZeQdn8="
+    "encryptedToken": "JoY8ZLs19RKtmEpGE4VgZw==:P5Z9kUyWWfy1reTY:o55wHJjAqriGv1Not2gc4PsO9fq8oxgixj/1htb5EOSRVb+TKC9KqqH2KZ4PXqEaWDdeaqH9g4I="
   }
 }
