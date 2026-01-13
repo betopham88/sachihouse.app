@@ -10,7 +10,7 @@
   "hostImageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_0877.jpeg",
   "isSuperhost": true,
   "superhostSince": "2025",
-  "themeColor": "airbnb",
+  "themeColor": "blue",
   "maxGuests": 7,
   "bedrooms": 3,
   "beds": 5,
@@ -365,6 +365,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "u02JnqwzVE3ydDCPdrij/Q==:7cgj0RSAcbK3/jYe:h5h0vnAGBFCTLfuRERHfhHTFwFqkqbt+gD6y/BMi83I94lIJEIwqh5rW570q/HdpBCjlaIAG2C4="
+    "encryptedToken": "OoRE/NRjazBDUCQOS846yA==:wYNy7DREx7WVB+5G:2JhAiKWOIdav0E46KGbCT/sTD64eYCb03undAA/2wtBkUnyjP5M8fV/OHn8CH/JAZOqm/FbvHuA="
   }
 }
