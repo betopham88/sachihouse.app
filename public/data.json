@@ -1,5 +1,7 @@
 {
   "name": "SachiHouse: 600m to Ojima Station/ Park View",
+  "metaTitle": "Sachi House | Tokyo Zen Stay",
+  "metaFavicon": "https://cdn-icons-png.flaticon.com/512/2111/2111320.png",
   "subtitle": "Max 8 guests, 3 Bed Rooms, 4 Beds, Dinning, Toilet",
   "description": "Located in Ōjima, Kōtō-ku, Tokyo, perfect for 2–8 guests. Just around 8 minutes’ walk to Ōjima Station, one train go straight to Shinjuku (18min by express train and 26min by local train). A large park in front of the house, with swings and slides is right in front — great for families. Fully equipped with IH kitchen, 140L fridge, microwave, rice cooker, 32″ smart TV, air conditioner, and dining table.\n\nThe space\n🏠 Clean and Spacious House\n・A fully renovated 3LDK (~60㎡) house exclusively for guest use.\n・Accommodates up to 7 guests with three bedrooms.\n\n🚉 Convenient Location\n・Just a 8-minute walk from Ojima Station on the Toei Shinjuku Line.\n・Only 2-minute walk to the traditional shopping street (Sun road Nakanohashi)\n・Conveniently located near convenience stores, supermarkets, drugstores, and various restaurants.\n\n🛏️ Comfortable Sleeping Arrangements\n・Each bedroom is furnished with beds and mattress to ensure a relaxing sleep.\n\n【Family-Friendly Amenities】\n・Baby chair are available at no extra cost.\n・Youtube connected with TV are provided for entertainment.\n\n📶 Unlimited High-Speed Wi-Fi\n・Enjoy free, high-speed Wi-Fi suitable for streaming videos without interruption.\n\n💻 Remote Work Ready\n・Equipped with a dedicated desk, chair for remote work.\n・High-speed Wi-Fi is provided for seamless online activities.\n\n🛋️ Dining & Kitchen\n・Dining table with 4 seats and 1 bench and 1 baby high seat.\n・Fully equipped with a refrigerator, microwave, rice cooker, and other kitchen appliances.\n・General tableware and cooking utensils are available.\n・A television connected to Youtube and internet.\n\n🛏️ Bedrooms\n・Bedroom 201: Two Semi-double beds, futons, air conditioning, and one electric fan, and working desk/chair\n・Bedroom 301: One Semi-double bed, futons, air conditioning and one electric fan.\n・Bedroom 302: One double bed, air conditioning, working desk/chair.\n\n🧺 Laundry Room\n・Washing machine at no extra cost. Dry on balcony or use coin laundry nearby.\n\n🧼 Bathroom Facilities\n・Washroom: Independent washbasin with a hairdryer.\n・Shower Rooms: located on the 1st floor.\n・Features automatic water heaters for easy hot water access.\n・Body soap and shampoo are provided.\n\n🚽Toilets: Located on the 1st floor, equipped with bidet and seat warming functions.\n\n🧴 Amenities\n・Face towels and bath towels are provided for each guest. Extra set will be charged for 300 JPY. Please contact to the host in advance.\n・Body soap, shampoo, and conditioner are available.\n・Laundry detergent are provided.\n\n🚭 Smoking Policy\n・Smoking is prohibited indoors, limited outdoors. Thank you very much for your understandings and your cooperation.\n\n🔑 Guest Access\nGuests have exclusive access to the entire house and all amenities.\n\n📄 Additional Information\nFor non-Japanese guests, passport information is required prior to check-in.\nRegistration details\n\nHotels and Inns Business Act | 江東区保健所 | ６江健生環き第１７７号",
   "address": "7-chōme Ojima, Koto city, Tokyo 136-0072",
@@ -8,7 +10,7 @@
   "hostImageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/cropped-IMG_0877.jpeg",
   "isSuperhost": true,
   "superhostSince": "2025",
-  "themeColor": "airbnb",
+  "themeColor": "agoda",
   "maxGuests": 7,
   "bedrooms": 3,
   "beds": 4,
@@ -474,8 +476,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "oTmZ1esr2LrTV7IqqLju9Q==:CPKBgROFt+mg20Cj:MhOPDlMZlMK00uIiY9vd8ZbrAY+7buBVW50in11sIiBswpQqA2/7kkY4l8JRNGwAy0RdvT+RDN4="
-  },
-  "metaTitle": "Sachi House",
-  "metaFavicon": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/cropped-IMG_0877.jpeg"
+    "encryptedToken": "6PsdrHbVjqV3jU2GOAv9pg==:OGdo4Zm27fh4rkee:yar1ruzU4AzCXvOtQNnGGLLALJOtQGy+iap9UyMO/7/+61leXe67q2ASeUrQepHBfAW+0uaT0oY="
+  }
 }
