@@ -20,19 +20,19 @@
       "id": "h1",
       "title": "Park Front",
       "description": "Large park with playground right in front.",
-      "icon": "Sun"
+      "icon": "Coffee"
     },
     {
       "id": "h2",
       "title": "Work Ready",
       "description": "High-speed Wifi & Dedicated desk.",
-      "icon": "Monitor"
+      "icon": "Wifi"
     },
     {
       "id": "h3",
       "title": "Direct to Shinjuku",
       "description": "18 min by express train (Ojima St.).",
-      "icon": "MapPin"
+      "icon": "CheckCircle"
     }
   ],
   "accessInfo": {
@@ -463,6 +463,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "8HM9S33CY2AefL5VF5yF3A==:MZVzTV2/uMQeZxUQ:ThRdS0B7aMp7LHT7StUl3aQGRwdOcwaaDHaa67q7kDOVSLxnBOJOnLmnydk/lbCHcS1w6/n4UkM="
+    "encryptedToken": "yoz4lr2Iq4z/5O3raTFAXg==:ODvLqYC7Knm+QaPl:Wm9LnVMxcZ7kdt41sUXi0a3YaJCMIvZ5KDIHKAKi5TWJzEYAKvTBEPMrzDtP5YoNKD8o5xfprrM="
   }
 }
