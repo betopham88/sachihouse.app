@@ -401,31 +401,30 @@
     {
       "id": "s1",
       "title": "Bedroom 201",
-      "description": "2 semi-double beds, futons",
-      "imageUrl": "https://picsum.photos/300/200?random=20",
+      "description": "2 semi-double beds, futons, working desk",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/16.avif",
       "photos": [
-        "https://picsum.photos/600/400?random=20",
-        "https://picsum.photos/600/400?random=30",
-        "https://picsum.photos/600/400?random=31"
+        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/14.avif",
+        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/17.avif"
       ]
     },
     {
       "id": "s2",
       "title": "Bedroom 301",
       "description": "1 semi-double bed, futons",
-      "imageUrl": "https://picsum.photos/300/200?random=21",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/12.avif",
       "photos": [
-        "https://picsum.photos/600/400?random=21",
-        "https://picsum.photos/600/400?random=32"
+        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/11.avif",
+        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/13.avif"
       ]
     },
     {
       "id": "s3",
       "title": "Bedroom 302",
-      "description": "1 double bed",
-      "imageUrl": "https://picsum.photos/300/200?random=22",
+      "description": "1 double bed, futons, working desk",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_1333-scaled.jpg",
       "photos": [
-        "https://picsum.photos/600/400?random=22"
+        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/10.avif"
       ]
     }
   ],
@@ -464,6 +463,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "lXWU7xAHigYGXnEbnaLmcA==:TlKcw+lgLjpY/WSy:oJN/9G6uS4ft1RYzT9MDdNa02AWccaWdDZ0KorZU1eDQm4PSn7VA+YMkoUSHfDq6Bdpukgy4pXU="
+    "encryptedToken": "8HM9S33CY2AefL5VF5yF3A==:MZVzTV2/uMQeZxUQ:ThRdS0B7aMp7LHT7StUl3aQGRwdOcwaaDHaa67q7kDOVSLxnBOJOnLmnydk/lbCHcS1w6/n4UkM="
   }
 }
