@@ -240,14 +240,14 @@
       "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/6.avif",
       "caption": "New Photo",
       "category": "kitchen",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "1768494408332",
       "url": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_1606-scaled.jpg",
       "caption": "New Photo",
       "category": "other",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "1768494409050",
@@ -261,7 +261,7 @@
       "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/16.avif",
       "caption": "New Photo",
       "category": "other",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "1768494409454",
@@ -275,7 +275,7 @@
       "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/10.avif",
       "caption": "New Photo",
       "category": "other",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "1768494409818",
@@ -463,6 +463,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "yoz4lr2Iq4z/5O3raTFAXg==:ODvLqYC7Knm+QaPl:Wm9LnVMxcZ7kdt41sUXi0a3YaJCMIvZ5KDIHKAKi5TWJzEYAKvTBEPMrzDtP5YoNKD8o5xfprrM="
+    "encryptedToken": "MHQI+mZAobI6aJZmqxvOVQ==:vIrymmKcSQ1NS8go:V0GADJ5SVuu2t5TNOYJPyRdnk19J12eoDm/XMb7VBBQlevxRnTp8A3ssgRi3lQJwpRD2vwHC0oA="
   }
 }
