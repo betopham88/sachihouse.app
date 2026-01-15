@@ -50,7 +50,7 @@
       },
       {
         "guests": 2,
-        "price": 15000
+        "price": 7500
       },
       {
         "guests": 3,
@@ -289,6 +289,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "GfSKGMwd+1NH1rDuLEdVmg==:PiaNwc7cMva5oAFi:ke88hP1WNTkPOC9GUNf3i9pTWyQZBYS6L6cH93efOY7Ac3oru9PNtZbVxehTslyptNcGT4k5Li8="
+    "encryptedToken": "dceuH2SgE18NIKbJoLn46A==:Ee4AdUXN3Md2r7m9:uTZkqbMpHiI4GqeGfhf+X2C9B+gt6tapWQtcrOJGWDbkXoWwsfxXMFdKnjOX/Lv5iDNXL1vX1PE="
   }
 }
