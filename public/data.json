@@ -163,7 +163,6 @@
     }
   ],
   "amenities": [
-    "High-speed Wifi",
     "Kitchen",
     "Washing Machine",
     "Air conditioning",
@@ -175,7 +174,16 @@
     "Electric kettle",
     "Self check-in",
     "Shower",
-    "Steamer"
+    "Steamer",
+    "TV",
+    "Wifi",
+    "Workspace",
+    "Shampoo",
+    "Dishes and silverware",
+    "Hot water",
+    "Fire extinguisher",
+    "Smoke alarm",
+    "Lock on bedroom door"
   ],
   "galleryCategories": [
     {
@@ -283,6 +291,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "HDka2ERd7UNcUhztP+8UxA==:8Kho52FPf/9aEG9q:4BTHHJfs4KpXIkYq6Ghq2KfUk0Y+GipOm51krRVaUO5XvBkV4MpnT2rdvfhpNpKYefDgrUG4gYE="
+    "encryptedToken": "FSaRDyt0nijun/+ZGtNItg==:THAlmofkBnpo4lE3:03px5QH4KdRcihSrJpaiJfkimJtg5baRcmDhBEAjbIF0fFImkLz4I8a4tm5b2rtpdtmgpGoVirs="
   }
 }
