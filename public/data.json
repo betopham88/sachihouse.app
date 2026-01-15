@@ -10,7 +10,7 @@
   "hostImageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_0877.jpeg",
   "isSuperhost": true,
   "superhostSince": "2025",
-  "themeColor": "airbnb",
+  "themeColor": "booking",
   "maxGuests": 7,
   "bedrooms": 3,
   "beds": 5,
@@ -216,7 +216,182 @@
   "galleryImages": [
     {
       "id": "1768493732490",
-      "url": "",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/FloorPlan.avif",
+      "caption": "New Photo",
+      "category": "plan",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494357875",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/4.avif",
+      "caption": "New Photo",
+      "category": "kitchen",
+      "showOnHome": true
+    },
+    {
+      "id": "1768494369526",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/5.avif",
+      "caption": "New Photo",
+      "category": "kitchen",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494393534",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/6.avif",
+      "caption": "New Photo",
+      "category": "kitchen",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494408332",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_1606-scaled.jpg",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494409050",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/12.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494409257",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/16.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494409454",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_1333-scaled.jpg",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494409636",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/10.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494409818",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/1.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494410001",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/18.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494410182",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/19.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494410370",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/20.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494410554",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/23.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494410752",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/22.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494410942",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/25.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494411124",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/29.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494411322",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/21.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494411512",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/26.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494411710",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/27.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494411908",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/28.webp",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494412106",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/30.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494412256",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/31.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494412438",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/13.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494412612",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/3.avif",
+      "caption": "New Photo",
+      "category": "other",
+      "showOnHome": false
+    },
+    {
+      "id": "1768494644493",
+      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/2.avif",
       "caption": "New Photo",
       "category": "other",
       "showOnHome": false
@@ -289,6 +464,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "dceuH2SgE18NIKbJoLn46A==:Ee4AdUXN3Md2r7m9:uTZkqbMpHiI4GqeGfhf+X2C9B+gt6tapWQtcrOJGWDbkXoWwsfxXMFdKnjOX/Lv5iDNXL1vX1PE="
+    "encryptedToken": "lXWU7xAHigYGXnEbnaLmcA==:TlKcw+lgLjpY/WSy:oJN/9G6uS4ft1RYzT9MDdNa02AWccaWdDZ0KorZU1eDQm4PSn7VA+YMkoUSHfDq6Bdpukgy4pXU="
   }
 }
