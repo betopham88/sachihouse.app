@@ -156,7 +156,7 @@
     {
       "id": "cal1",
       "name": "Airbnb",
-      "url": "https://www.airbnb.com/calendar/ical/...",
+      "url": "https://www.airbnb.co.uk/calendar/ical/1368544172241138040.ics?s=d401505b50429aad58b8614141226d83",
       "lastSynced": "2026-01-13T11:29:59.709Z"
     }
   ],
@@ -257,8 +257,8 @@
   "social": {
     "facebookUrl": "https://www.facebook.com/profile.php?id=61574672374571",
     "footerImageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_0877.jpeg",
-    "airbnbUrl": "https://airbnb.com",
-    "bookingUrl": "https://booking.com"
+    "airbnbUrl": "https://www.airbnb.com/rooms/1368544172241138040?source_impression_id=p3_1768494086_P37do82-FNcLNu0a",
+    "bookingUrl": ""
   },
   "emailJs": {
     "serviceId": "",
@@ -289,6 +289,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "rKo+vYLz70duW4cj/o+3vg==:dmXWzA7FfzYann48:RgCmL0MI/DH/hhv1GTnQolh9o6nTjYl2tX76dCB1W0a68yDOF1POG/xDnRz5e107SVPrKdKKh8k="
+    "encryptedToken": "GfSKGMwd+1NH1rDuLEdVmg==:PiaNwc7cMva5oAFi:ke88hP1WNTkPOC9GUNf3i9pTWyQZBYS6L6cH93efOY7Ac3oru9PNtZbVxehTslyptNcGT4k5Li8="
   }
 }
