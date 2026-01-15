@@ -46,11 +46,11 @@
     "rates": [
       {
         "guests": 1,
-        "price": 5000
+        "price": 15000
       },
       {
         "guests": 2,
-        "price": 5000
+        "price": 15000
       },
       {
         "guests": 3,
@@ -71,18 +71,22 @@
       {
         "guests": 7,
         "price": 4000
+      },
+      {
+        "guests": 8,
+        "price": 3700
       }
     ],
     "cleaning": [
       {
         "minGuests": 1,
         "maxGuests": 3,
-        "price": 5000
+        "price": 8000
       },
       {
         "minGuests": 4,
         "maxGuests": 4,
-        "price": 8000
+        "price": 10000
       },
       {
         "minGuests": 5,
@@ -153,12 +157,6 @@
       "id": "cal1",
       "name": "Airbnb",
       "url": "https://www.airbnb.com/calendar/ical/...",
-      "lastSynced": "2026-01-13T11:29:59.709Z"
-    },
-    {
-      "id": "cal2",
-      "name": "Booking.com",
-      "url": "https://admin.booking.com/...",
       "lastSynced": "2026-01-13T11:29:59.709Z"
     }
   ],
@@ -291,6 +289,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "FSaRDyt0nijun/+ZGtNItg==:THAlmofkBnpo4lE3:03px5QH4KdRcihSrJpaiJfkimJtg5baRcmDhBEAjbIF0fFImkLz4I8a4tm5b2rtpdtmgpGoVirs="
+    "encryptedToken": "rKo+vYLz70duW4cj/o+3vg==:dmXWzA7FfzYann48:RgCmL0MI/DH/hhv1GTnQolh9o6nTjYl2tX76dCB1W0a68yDOF1POG/xDnRz5e107SVPrKdKKh8k="
   }
 }
