@@ -131,7 +131,7 @@
       "id": "m1",
       "title": "Wi-Fi Connection",
       "content": "Network: elecom-9616b4\nPassword: p85etruxica2",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/Screenshot-2026-01-06-235039.jpg"
+      "imageUrl": ""
     },
     {
       "id": "m2",
@@ -471,6 +471,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "KAfjdsk0WB+yAl1Rl6ctsw==:9Ldd7Xj1eDgfhIkY:tep90U3ozSqA1UOZj0KtNlO8RSD3I7PHy5O7x51E7KaLAxQuGbIukiyKwUM0TCZxAW0nIC/+n5U="
+    "encryptedToken": "NpAEsydBG2vhOPZ3qL6K8w==:udpkAL40lIQqWSV+:z4glALJQiBlUB4BjLhQFh6eeaDyiZO66keyvJqc4iDE81p1Mlf+u9JXKivgIVf6qz5OTAZ3lmhw="
   }
 }
