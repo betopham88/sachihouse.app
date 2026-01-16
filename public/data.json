@@ -36,8 +36,8 @@
     }
   ],
   "accessInfo": {
-    "train": "• 8 min walk from Ōjima Station (Toei Shinjuku Line).\n• Direct access to Shinjuku (18 min express / 26 min local).\n• 2 min walk to Sun Road Nakanohashi Shopping Street.",
-    "airport": "• From Narita (NRT): ~70 mins via Keisei Line & Toei Shinjuku Line.\n• From Haneda (HND): ~50 mins via Keikyu Line & Toei Asakusa/Shinjuku Line.\n• Airport Limousine Bus available to nearby hotels.",
+    "train": "🚆 Access to Sachi House Ōjima (by Train)\n✈️ From Haneda Airport (HND)\n\n🚉 Take Tokyo Monorail to Hamamatsuchō Station\n🔁 Transfer to JR Yamanote Line → Akihabara Station\n🔁 Transfer to Toei Shinjuku Line → Ōjima Station\n🚶 Walk 5–7 minutes to the house\n\n⏱️ Approx. 50–60 minutes\n\n✈️ From Narita Airport (NRT)\n\n🚉 Take Narita Express (N’EX) to Tokyo Station\n🔁 Transfer to JR Yamanote Line → Akihabara Station\n🔁 Transfer to Toei Shinjuku Line → Ōjima Station\n🚶 Walk 5–7 minutes to the house\n\n⏱️ Approx. 80–90 minutes",
+    "airport": "🚌 Airport Access (by Bus)\n✈️ From Haneda Airport (HND)\n\n🚌 Take Airport Limousine Bus\n📍 Get off at Tokyo Station or Kinshichō Station\n🚆 From there, take Toei Shinjuku Line to Ōjima Station\n🚶 Walk 5–7 minutes to the house\n\n⏱️ Approx. 60–80 minutes\n\n✈️ From Narita Airport (NRT)\n\n🚌 Take Airport Limousine Bus\n📍 Get off at Tokyo Station or Kinshichō Station\n🚆 Transfer to Toei Shinjuku Line → Ōjima Station\n🚶 Walk 5–7 minutes to the house\n\n⏱️ Approx. 90–120 minutes",
     "checkIn": "🏠 Sachi House Ōjima – Check-in Instructions\n⏰ Check-in: From 16:00\n⏰ Check-out: By 10:00\n\n🚉 Nearest station: Ōjima Station (Toei Shinjuku Line)\n🚶 Walking time: About 5–7 minutes\n\n🔐 Self check-in: Keybox PIN code will be sent before check-in.\n\n📝 Required by local law:\nPlease complete the online check-in form and upload a valid ID / passport for all guests.\nThe form link will be sent separately.",
     "youtubeGuideUrl": "https://youtu.be/Er6fYKBaikI"
   },
@@ -471,6 +471,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "WGFG2VxjnjqsjsSriwI/1w==:8FNGrv6WmZiGKHWF:HEnz7rlDUKg++44GkjxA76alu91FwAnqPul8jUCo8TvxOMGUn6PH43vdLagr3HsZPMNAUL6o5aM="
+    "encryptedToken": "U6M7rCPYkNzBHNzut4Zpow==:yUfaBCKP1urp3kXd:Qe+NVk5JDEbLIV2cD9JV6k7y+Bz6Lv651pFG9ZaoY43gVlpCsyfnUyVyNsGGM/zjNaFLLFjRRY8="
   }
 }
