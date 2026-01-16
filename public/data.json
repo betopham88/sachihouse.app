@@ -90,7 +90,7 @@
       },
       {
         "minGuests": 5,
-        "maxGuests": 7,
+        "maxGuests": 8,
         "price": 13000
       }
     ],
@@ -471,6 +471,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "pqWRUF8l5mwNmejAgsjNXw==:9QcXRiikKzYK1awD:NjLzqPIVDkkR5dWmyBegyr10Opg2NC4SwcPu5XaDnHPy2T/fFv6t6QFI+l9d8tqlk9m55Ux5qCc="
+    "encryptedToken": "ntlEFS+QvhAU/i/TGmS8JA==:3v3DE3vW6bG8VVCG:Jzc+8XBMoqARj/IrYH3v6SudaHlnL0xUBtx0SEi8wUoxNfW+yC62e13osi3CU2B6v+ixhV+eBVk="
   }
 }
