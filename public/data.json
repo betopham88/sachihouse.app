@@ -41,7 +41,7 @@
     "checkIn": "🏠 Sachi House Ōjima – Check-in Instructions\n⏰ Check-in: From 16:00\n⏰ Check-out: By 10:00\n\n🚉 Nearest station: Ōjima Station (Toei Shinjuku Line)\n🚶 Walking time: About 5–7 minutes\n\n🔐 Self check-in: Keybox PIN code will be sent before check-in.\n\n📝 Required by local law:\nPlease complete the online check-in form and upload a valid ID / passport for all guests.\nThe form link will be sent separately.",
     "youtubeGuideUrl": "https://youtu.be/Er6fYKBaikI"
   },
-  "additionalRules": "🔐 Security / Guests\n・Only registered guests are allowed to stay.\n・Do not share the entrance PIN code with non-guests.\n\n💡 Energy & Usage\n・Please turn off air conditioners, lights, and TV when leaving the room.\n\n🚽 Bathroom Rules\n・Please flush toilet paper only.\n・Do not flush wipes or sanitary products.\n\n🗑️ Waste (nếu form cho phép thêm 1 dòng)\n・Use designated garbage bins on the 1st floor.\n\n⚠️ Damages\n・Please report any damage or stains immediately.\n・Guests may be charged for damages caused.",
+  "additionalRules": "🔐 Security / Guests\n・Only registered guests are allowed to stay.\n・Do not share the entrance PIN code with non-guests.\n\n💡 Energy & Usage\n・Please turn off air conditioners, lights, and TV when leaving the room.\n\n🚽 Bathroom Rules\n・Please flush toilet paper only.\n・Do not flush wipes or sanitary products.\n\n🗑️ Waste\n・Use designated garbage bins on the 1st floor.\n\n⚠️ Damages\n・Please report any damage or stains immediately.\n・Guests may be charged for damages caused.",
   "pricing": {
     "rates": [
       {
@@ -507,6 +507,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "OJkm6CviKFxJrFYDpU8mEA==:xfCeM3MLOBzzvYIX:49v8cMYxXAR79r4HKY8y3WMcIn2q4aFSWk0Rg4CeV9fST9Oe+GbaYogqcYdR5O0LTtdh102pV60="
+    "encryptedToken": "B/9iHU9qARsSSeKegx6Scg==:vTn09Jqc8+By5TjB:8q/acR/RjAZYQkxaumIOuNLNrN5Hh2/hOgvkIZuF3RSyCw6rwF7AOeKElqclHLOFXGL31wS0j04="
   }
 }
