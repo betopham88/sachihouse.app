@@ -150,6 +150,42 @@
       "title": "Air Conditioner",
       "content": "Remote is on the wall. \"Reibo\" is Cooling (Blue), \"Danbo\" is Heating (Red). Please turn off when leaving.",
       "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-7-967x1024.png"
+    },
+    {
+      "id": "1768574573288",
+      "title": "How to use the toilet",
+      "content": "🚽 Washlet Quick Guide\n\n▶ Rear wash: Press おしり\n▶ Soft wash: Press やわらか\n▶ Bidet (female): Press ビデ\n\n⬆⬇ Water pressure: + / −\n⬅➡ Nozzle position: Arrow buttons\n\n⏹ Stop: Press 止",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-14-764x1024.png"
+    },
+    {
+      "id": "1768574806001",
+      "title": "Washing Machine",
+      "content": "🧺 Washing Machine – Quick Guide\n🧴 Add detergent\n　Detergent → Liquid Detergent inlet\n　Softener → Fabric Softener inlet\n\n🔌 Power ON: Press 入\n▶ Start: Press スタート\n\n⏸ Stop (temporary): Press スタート again",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-9-825x1024.png"
+    },
+    {
+      "id": "1768574806192",
+      "title": "Rice Cooker",
+      "content": "🍚 Rice Cooker – Quick Guide\n\n🍚 Add rice & water\n📋 Menu: Press メニュー (Normal rice)\n▶ Cook: Press 炊飯\n\n⏹ Cancel: Press とりけし\n🔥 Keep warm: Automatic after cooking",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-10.png"
+    },
+    {
+      "id": "1768574806424",
+      "title": "Microwave",
+      "content": "🔥 IH Stove / Heater – Quick Guide\n\n🔌 Power ON / Select: Press 出力切替\n⏱ Set time / power: Turn the dial (時間/メニュー)\n▶ Start / Warm: Press あたため / スタート\n\n⏹ Stop / Cancel: Press とりけし",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-12.png"
+    },
+    {
+      "id": "1768574806641",
+      "title": "Emergency Route",
+      "content": "Follow the Emergency Evacuation Route to get out of the house",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-2-742x1024.png"
+    },
+    {
+      "id": "1768574806961",
+      "title": "Emergency Service",
+      "content": "🚨 Emergency Information\n\n📞 Police: 110\n🚑 Fire & Ambulance: 119\n📲 Host: 080-4226-8668\n\n🏥 Nearest Hospital\nKōtō Hospital\n📍 6-8-5 Ōjima, Kōtō-ku, Tokyo\n📞 03-3685-2166\n\n🏫 Evacuation Centers\n• Ōjima Elementary School\n 📍 7-1-14 Ōjima, Kōtō-ku, Tokyo\n• Dai-ni Ōjima Junior High School\n 📍 7-22-18 Ōjima, Kōtō-ku, Tokyo",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-3-725x1024.png"
     }
   ],
   "icalFeeds": [
@@ -471,6 +507,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "t2hFaJzQQ4Bb9PxkrnfvZw==:s4CMGsmomgr0mKh+:n3UsqJYZUUCdI9sNZBb9yksdJR0+8PvC8gdBy5kNEcKsisXIgigUrYwGUK4sCktCfVgnvl+JjHE="
+    "encryptedToken": "OJkm6CviKFxJrFYDpU8mEA==:xfCeM3MLOBzzvYIX:49v8cMYxXAR79r4HKY8y3WMcIn2q4aFSWk0Rg4CeV9fST9Oe+GbaYogqcYdR5O0LTtdh102pV60="
   }
 }
