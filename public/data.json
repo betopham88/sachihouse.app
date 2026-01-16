@@ -41,7 +41,7 @@
     "checkIn": "Check-in: 15:00 - 22:00\nCheck-out: 11:00\n\nSelf check-in with lockbox.",
     "youtubeGuideUrl": "https://youtu.be/Er6fYKBaikI"
   },
-  "additionalRules": "• Please separate your garbage according to the manual.\n• Lost keys will incur a replacement fee of ¥10,000.\n• Check-out is strictly at 11:00 AM to allow for cleaning.",
+  "additionalRules": "🔐 Security / Guests\n・Only registered guests are allowed to stay.\n・Do not share the entrance PIN code with non-guests.\n\n💡 Energy & Usage\n・Please turn off air conditioners, lights, and TV when leaving the room.\n\n🚽 Bathroom Rules\n・Please flush toilet paper only.\n・Do not flush wipes or sanitary products.\n\n🗑️ Waste (nếu form cho phép thêm 1 dòng)\n・Use designated garbage bins on the 1st floor.\n\n⚠️ Damages\n・Please report any damage or stains immediately.\n・Guests may be charged for damages caused.",
   "pricing": {
     "rates": [
       {
@@ -115,7 +115,7 @@
     },
     {
       "id": "3",
-      "text": "Quiet hours after 10 PM",
+      "text": "Quiet hours after 9:00PM",
       "icon": "Moon",
       "type": "allowed"
     },
@@ -471,6 +471,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "1fJqY2F3QVP11aWahsHW0A==:J9Q14AiRexzXhgRb:GvPUnwQ9d1ddAuNj74No33+02MpToEop6XIAR0Eceqe90jUvJftBWONbh0L+sLJ4buKCmWHh0ow="
+    "encryptedToken": "974CedxXU/BM2cIwvxYtPg==:RJug3DQ9bhPaj7cL:44KYu9MdV1CA1XoRJC0L8pLVPV/mjqp16ucdUsQBalzPO3syhH0pI7CZwuvtX46vc8OpdX3/Vns="
   }
 }
