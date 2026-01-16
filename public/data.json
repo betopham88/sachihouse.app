@@ -38,7 +38,7 @@
   "accessInfo": {
     "train": "• 8 min walk from Ōjima Station (Toei Shinjuku Line).\n• Direct access to Shinjuku (18 min express / 26 min local).\n• 2 min walk to Sun Road Nakanohashi Shopping Street.",
     "airport": "• From Narita (NRT): ~70 mins via Keisei Line & Toei Shinjuku Line.\n• From Haneda (HND): ~50 mins via Keikyu Line & Toei Asakusa/Shinjuku Line.\n• Airport Limousine Bus available to nearby hotels.",
-    "checkIn": "Check-in: 15:00 - 22:00\nCheck-out: 11:00\n\nSelf check-in with lockbox.",
+    "checkIn": "🏠 Sachi House Ōjima – Check-in Instructions\n⏰ Check-in: From 16:00\n⏰ Check-out: By 10:00\n\n🚉 Nearest station: Ōjima Station (Toei Shinjuku Line)\n🚶 Walking time: About 5–7 minutes\n\n🔐 Self check-in: Keybox PIN code will be sent before check-in.\n\n📝 Required by local law:\nPlease complete the online check-in form and upload a valid ID / passport for all guests.\nThe form link will be sent separately.",
     "youtubeGuideUrl": "https://youtu.be/Er6fYKBaikI"
   },
   "additionalRules": "🔐 Security / Guests\n・Only registered guests are allowed to stay.\n・Do not share the entrance PIN code with non-guests.\n\n💡 Energy & Usage\n・Please turn off air conditioners, lights, and TV when leaving the room.\n\n🚽 Bathroom Rules\n・Please flush toilet paper only.\n・Do not flush wipes or sanitary products.\n\n🗑️ Waste (nếu form cho phép thêm 1 dòng)\n・Use designated garbage bins on the 1st floor.\n\n⚠️ Damages\n・Please report any damage or stains immediately.\n・Guests may be charged for damages caused.",
@@ -471,6 +471,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "974CedxXU/BM2cIwvxYtPg==:RJug3DQ9bhPaj7cL:44KYu9MdV1CA1XoRJC0L8pLVPV/mjqp16ucdUsQBalzPO3syhH0pI7CZwuvtX46vc8OpdX3/Vns="
+    "encryptedToken": "WGFG2VxjnjqsjsSriwI/1w==:8FNGrv6WmZiGKHWF:HEnz7rlDUKg++44GkjxA76alu91FwAnqPul8jUCo8TvxOMGUn6PH43vdLagr3HsZPMNAUL6o5aM="
   }
 }
