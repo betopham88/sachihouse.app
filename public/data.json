@@ -136,20 +136,20 @@
     {
       "id": "m2",
       "title": "Trash Separation",
-      "content": "Burnable: Mon/Thu. Recyclable (Bottles/Cans): Fri. Plastic: Wed.\nPlease use the designated bins on the balcony.",
-      "imageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&q=80&w=600"
+      "content": "🗑️ Burnable Waste (Combustible Trash)\n　✔ Food waste, paper, tissues, plastic bags\n　❌ No cans, bottles, or glass\n　➡ Put in the Burnable Waste bin\n\n🥫 Recyclables (Cans & PET Bottles)\n　✔ Aluminum cans, glass bottles, PET bottles\n　❌ No plastic containers (except PET bottles)\n　➡ Please rinse, remove caps and labels before disposal",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/Screenshot-2026-01-16-233858.jpg"
     },
     {
       "id": "m3",
       "title": "Hot Water Panel",
-      "content": "Press the \"Power\" button on the wall panel in the kitchen. Set temp to 40C before using the shower.",
-      "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=600"
+      "content": "Press the \"Power\" button on the wall panel in the kitchen. Set temp to 38°C before using the shower.",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-6.png"
     },
     {
       "id": "m4",
       "title": "Air Conditioner",
       "content": "Remote is on the wall. \"Reibo\" is Cooling (Blue), \"Danbo\" is Heating (Red). Please turn off when leaving.",
-      "imageUrl": "https://images.unsplash.com/photo-1599316782487-111d4e463a8e?auto=format&fit=crop&q=80&w=600"
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-7-967x1024.png"
     }
   ],
   "icalFeeds": [
@@ -471,6 +471,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "NpAEsydBG2vhOPZ3qL6K8w==:udpkAL40lIQqWSV+:z4glALJQiBlUB4BjLhQFh6eeaDyiZO66keyvJqc4iDE81p1Mlf+u9JXKivgIVf6qz5OTAZ3lmhw="
+    "encryptedToken": "t2hFaJzQQ4Bb9PxkrnfvZw==:s4CMGsmomgr0mKh+:n3UsqJYZUUCdI9sNZBb9yksdJR0+8PvC8gdBy5kNEcKsisXIgigUrYwGUK4sCktCfVgnvl+JjHE="
   }
 }
