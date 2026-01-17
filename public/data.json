@@ -150,6 +150,12 @@
       "title": "Air Conditioner",
       "content": "Remote is on the wall. \"Reibo\" is Cooling (Blue), \"Danbo\" is Heating (Red). Please turn off when leaving.",
       "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-7-967x1024.png"
+    },
+    {
+      "id": "1768622728046",
+      "title": "Check Process",
+      "content": "1️⃣ Open the cover\n2️⃣ Enter the PIN code provided by the host\n  If incorrect, press “C” to reset\n3️⃣ Turn the knob to the right\n4️⃣ Open the key box and take the keys\n5️⃣ Use the keys to open the sliding door",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/Screenshot-2026-01-17-130921.jpg"
     }
   ],
   "icalFeeds": [
@@ -471,6 +477,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "ntlEFS+QvhAU/i/TGmS8JA==:3v3DE3vW6bG8VVCG:Jzc+8XBMoqARj/IrYH3v6SudaHlnL0xUBtx0SEi8wUoxNfW+yC62e13osi3CU2B6v+ixhV+eBVk="
+    "encryptedToken": "7DdZQB5SpbW69wmf/BBgRg==:/olTg6eLBcg9wOpP:ABpn6FQ7iNj+TdLWjzgpKvXby9M/Dy6YWGgYTf0viFCVDOxEVA1tznT1VTEiElIhlR5s7oSruBA="
   }
 }
