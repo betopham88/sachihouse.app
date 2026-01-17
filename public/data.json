@@ -153,7 +153,7 @@
     },
     {
       "id": "1768622728046",
-      "title": "Check Process",
+      "title": "Checkin Process",
       "content": "1️⃣ Open the cover\n2️⃣ Enter the PIN code provided by the host\n  If incorrect, press “C” to reset\n3️⃣ Turn the knob to the right\n4️⃣ Open the key box and take the keys\n5️⃣ Use the keys to open the sliding door",
       "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/Screenshot-2026-01-17-130921.jpg"
     }
@@ -477,6 +477,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "7DdZQB5SpbW69wmf/BBgRg==:/olTg6eLBcg9wOpP:ABpn6FQ7iNj+TdLWjzgpKvXby9M/Dy6YWGgYTf0viFCVDOxEVA1tznT1VTEiElIhlR5s7oSruBA="
+    "encryptedToken": "nTUD2ElZjOnHt8BG5gGEgQ==:HkqNHxq42iTHhevR:UCY1oUpVCS4osiMbu6KHPJy1OGRO5ctFSMdFCC7GRNiELwGRjplImI+4zXaR7+vdKoDso3ZcK64="
   }
 }
