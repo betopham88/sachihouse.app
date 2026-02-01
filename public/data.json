@@ -156,6 +156,12 @@
       "title": "Checkin Process",
       "content": "1️⃣ Open the cover\n2️⃣ Enter the PIN code provided by the host\n  If incorrect, press “C” to reset\n3️⃣ Turn the knob to the right\n4️⃣ Open the key box and take the keys\n5️⃣ Use the keys to open the sliding door",
       "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/Screenshot-2026-01-17-130921.jpg"
+    },
+    {
+      "id": "1769939266733",
+      "title": "Microwave Usage Guide",
+      "content": "1. Start Cooking\n- Press Start to begin.\n- The screen shows the remaining time.\n\n2. Pause / Stop\n- Press Stop/Cancel to stop when needed.\n\n3. Remove Food\n- Use oven mitts if the food is hot.\n\n4. Cleaning\n- Wipe the inside with a damp cloth after use.\n\n⚠️ Safety Tips\n- Do not put metal or aluminum foil inside.\n- Be careful when heating liquids.\n- Do not block air vents.\n\n💡 Use Tip\n- If the microwave doesn’t start:\n  Open and close the door → Press Cancel → Try again.",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-12.png"
     }
   ],
   "icalFeeds": [
@@ -477,6 +483,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "+JZQ36bXRPEWtOzYKkYx6Q==:OQLWRQD5jR6P9uw1:7nrsn8nyBKwTgJCV2XtORBOSTQ9Mk7Dmx4diiAdEWoSwkmpk/2HlszMaeoEIP9isbPOJ/B3xRow="
+    "encryptedToken": "cEI14tLKDJ1NnaCuq1Z2Sg==:x+bBwYS6qruVDKty:0CkH4BwmKzJL9RN6kEZNChdUJzDmhRQ/4IJjHRaA0e49t8UUKyC1rdqPy8pdI5KCrqVl1aCFMMY="
   }
 }
