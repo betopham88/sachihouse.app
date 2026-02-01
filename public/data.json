@@ -162,6 +162,12 @@
       "title": "Microwave Usage Guide",
       "content": "1. Start Cooking\n- Press Start to begin.\n- The screen shows the remaining time.\n\n2. Pause / Stop\n- Press Stop/Cancel to stop when needed.\n\n3. Remove Food\n- Use oven mitts if the food is hot.\n\n4. Cleaning\n- Wipe the inside with a damp cloth after use.\n\n⚠️ Safety Tips\n- Do not put metal or aluminum foil inside.\n- Be careful when heating liquids.\n- Do not block air vents.\n\n💡 Use Tip\n- If the microwave doesn’t start:\n  Open and close the door → Press Cancel → Try again.",
       "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-12.png"
+    },
+    {
+      "id": "1769939571101",
+      "title": "Rice Cooker Guide",
+      "content": "1. Measure Rice\n- Use the cup. Wash until water is clear.\n\n2. Add Water\n- Fill to the marked level.\n\n3. Choose Mode\n- Press Menu (メニュー) and select rice type.\n\n4. Start\n- Press Start (炊飯).\n\n5. Finish\n- Auto Keep Warm (保温).\n\n6. Stop / Reset\n- Press Cancel (とりけし).\n\n7. Reheat\n- Use Reheat (再加熱) if needed.\n\n⚠️ Tips\n- Do not open lid while cooking.\n- Be careful of hot steam.",
+      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-10.png"
     }
   ],
   "icalFeeds": [
@@ -483,6 +489,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "cEI14tLKDJ1NnaCuq1Z2Sg==:x+bBwYS6qruVDKty:0CkH4BwmKzJL9RN6kEZNChdUJzDmhRQ/4IJjHRaA0e49t8UUKyC1rdqPy8pdI5KCrqVl1aCFMMY="
+    "encryptedToken": "XBjiiqbwb19XCslc2X+4JQ==:dX1Nw0Wq4z2dVA6e:oMhxQA7iMQfWScDM8VHs+4mNTsHcHPUNwrUY8csGYWiNT2OCsq9rTpZx7cwYY4RiK9bV8/6E+pA="
   }
 }
