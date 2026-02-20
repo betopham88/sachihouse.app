@@ -11,6 +11,7 @@
   "isSuperhost": true,
   "superhostSince": "2025",
   "themeColor": "agoda",
+  "adminEmail": "sachihouse.ad@gmail.com",
   "maxGuests": 7,
   "bedrooms": 3,
   "beds": 5,
@@ -248,7 +249,7 @@
   "galleryImages": [
     {
       "id": "1768493732490",
-      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/FloorPlan.avif",
+      "url": "https://storage.googleapis.com/sachihous07/FloorPlan.avif",
       "caption": "New Photo",
       "category": "plan",
       "showOnHome": false
@@ -311,7 +312,7 @@
     },
     {
       "id": "1768494409818",
-      "url": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/1.avif",
+      "url": "https://storage.googleapis.com/sachihous07/1.avif",
       "caption": "New Photo",
       "category": "kitchen",
       "showOnHome": false
@@ -495,6 +496,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "cXnTdE36qbLufpZY1NJ94Q==:zWpdJ+I/L5GkPVOU:nj7DUr2yQkfSRfI0MFAHgChT4M4Ltjl3B1F7LDoNQSH+LqRAeaVwP539QfvFGgDDOigSugWTbVE="
+    "encryptedToken": "GPxbvD670H3PpCc5NLWZyQ==:Mhimgc8TJN1J4bYe:mjOWKvVbq7RcLeCK3bZqRJaOBdG3LCuhDFeAGV2B8e/HTgHuAMfMga3ZiyNSpawmDCW0u8U17K0="
   }
 }
