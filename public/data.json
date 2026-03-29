@@ -435,30 +435,24 @@
       "id": "s1",
       "title": "Bedroom 201",
       "description": "2 semi-double beds, futons, working desk",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/16.avif",
+      "imageUrl": "https://storage.googleapis.com/sachihous07/IMG_1606-scaled.jpg",
       "photos": [
-        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/14.avif",
-        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/17.avif"
+        "https://storage.googleapis.com/sachihous07/16.avif"
       ]
     },
     {
       "id": "s2",
       "title": "Bedroom 301",
       "description": "1 semi-double bed, futons",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/12.avif",
-      "photos": [
-        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/11.avif",
-        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/13.avif"
-      ]
+      "imageUrl": "https://storage.googleapis.com/sachihous07/IMG_1333-scaled.jpg",
+      "photos": []
     },
     {
       "id": "s3",
       "title": "Bedroom 302",
       "description": "1 double bed, futons, working desk",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_1333-scaled.jpg",
-      "photos": [
-        "https://sachihouse-ojima.net/wp-content/uploads/2026/01/10.avif"
-      ]
+      "imageUrl": "https://storage.googleapis.com/sachihous07/10.avif",
+      "photos": []
     }
   ],
   "social": {
@@ -496,6 +490,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "kKMuzbmSwkeRolPzfUeYgw==:PgPx6sKNBiZMjf8p:UdzIPXvkXBoUocW/hiz2iCuMjrhmuAo3rYQCdIpiUorHOJMnEULcRgFsgPvLwxnH97uhXXny0Po="
+    "encryptedToken": "Ez4sK+XxBRioR/abcASNtA==:9ZolmP7MGyGrA51k:xE8GCmAU/19AcedeGkYHVVTrC6C1efGSOca0YHYWBjrK6fAD/V0lbk2v0YMp0/2J7l7aKlVOpk8="
   }
 }
