@@ -132,49 +132,49 @@
       "id": "m1",
       "title": "Wi-Fi Connection",
       "content": "Network: elecom-9616b4\nPassword: p85etruxica2",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/02/qrcode.png"
+      "imageUrl": ""
     },
     {
       "id": "m2",
       "title": "Trash Separation",
       "content": "🗑️ Burnable Waste (Combustible Trash)\n　✔ Food waste, paper, tissues, plastic bags\n　❌ No cans, bottles, or glass\n　➡ Put in the Burnable Waste bin\n\n🥫 Recyclables (Cans & PET Bottles)\n　✔ Aluminum cans, glass bottles, PET bottles\n　❌ No plastic containers (except PET bottles)\n　➡ Please rinse, remove caps and labels before disposal",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/Screenshot-2026-01-16-233858.jpg"
+      "imageUrl": "https://storage.googleapis.com/sachihous07/trash.png"
     },
     {
       "id": "m3",
       "title": "Hot Water Panel",
       "content": "Press the \"Power\" button on the wall panel in the kitchen. Set temp to 38°C before using the shower.",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-6.png"
+      "imageUrl": "https://storage.googleapis.com/sachihous07/hot%20water.png"
     },
     {
       "id": "m4",
       "title": "Air Conditioner",
       "content": "Remote is on the wall. \"Reibo\" is Cooling (Blue), \"Danbo\" is Heating (Red). Please turn off when leaving.",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-7-967x1024.png"
+      "imageUrl": "https://storage.googleapis.com/sachihous07/air%20con.png"
     },
     {
       "id": "1768622728046",
       "title": "Checkin Process",
       "content": "1️⃣ Open the cover\n2️⃣ Enter the PIN code provided by the host\n  If incorrect, press “C” to reset\n3️⃣ Turn the knob to the right\n4️⃣ Open the key box and take the keys\n5️⃣ Use the keys to open the sliding door",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/01/Screenshot-2026-01-17-130921.jpg"
+      "imageUrl": "https://storage.googleapis.com/sachihous07/checkin.png"
     },
     {
       "id": "1769939266733",
       "title": "Microwave Usage Guide",
       "content": "1. Start Cooking\n- Press Start to begin.\n- The screen shows the remaining time.\n\n2. Pause / Stop\n- Press Stop/Cancel to stop when needed.\n\n3. Remove Food\n- Use oven mitts if the food is hot.\n\n4. Cleaning\n- Wipe the inside with a damp cloth after use.\n\n⚠️ Safety Tips\n- Do not put metal or aluminum foil inside.\n- Be careful when heating liquids.\n- Do not block air vents.\n\n💡 Use Tip\n- If the microwave doesn’t start:\n  Open and close the door → Press Cancel → Try again.",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-12.png"
+      "imageUrl": "https://storage.googleapis.com/sachihous07/denshi.png"
     },
     {
       "id": "1769939571101",
       "title": "Rice Cooker Guide",
       "content": "1. Measure Rice\n- Use the cup. Wash until water is clear.\n\n2. Add Water\n- Fill to the marked level.\n\n3. Choose Mode\n- Press Menu (メニュー) and select rice type.\n\n4. Start\n- Press Start (炊飯).\n\n5. Finish\n- Auto Keep Warm (保温).\n\n6. Stop / Reset\n- Press Cancel (とりけし).\n\n7. Reheat\n- Use Reheat (再加熱) if needed.\n\n⚠️ Tips\n- Do not open lid while cooking.\n- Be careful of hot steam.",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/image-10.png"
+      "imageUrl": "https://storage.googleapis.com/sachihous07/cook.png"
     },
     {
       "id": "1769939850709",
       "title": "Washlet (Toilet) Usage Guide",
       "content": "1. Start\n- Press Rear (おしり) for rear wash.\n- Press Soft (やわらか) for gentle wash.\n- Press Bidet (ビデ) for feminine wash.\n\n2. Adjust\n- Use + / – to change water pressure.\n- Use ◀ ▶ to adjust nozzle position.\n- Set water temperature if needed.\n\n3. Stop\n- Press Stop (止) to stop washing.\n\n💡 Tips\n- Press Stop if unsure.\n- Nozzle cleans automatically.",
-      "imageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2026/02/Screenshot-2026-02-01-190218.jpg"
+      "imageUrl": "https://storage.googleapis.com/sachihous07/toilet.png"
     }
   ],
   "icalFeeds": [
@@ -496,6 +496,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "VYQXtUMOqZRVfj5rhzh2GA==:be0/LpHX3RA88mes:iymsq+ixaZAK3SKvKwONYlQ9jwUk98PO+4z/k35S9JtjnCcWFEea+zjgw38juu+fgU6iLVjzxdc="
+    "encryptedToken": "kKMuzbmSwkeRolPzfUeYgw==:PgPx6sKNBiZMjf8p:UdzIPXvkXBoUocW/hiz2iCuMjrhmuAo3rYQCdIpiUorHOJMnEULcRgFsgPvLwxnH97uhXXny0Po="
   }
 }
