@@ -7,7 +7,7 @@
   "address": "Ōjima, Kōtō-ku, Tokyo, Japan",
   "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.364750701902!2d139.8390099700991!3d35.69264075357966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018889403785259%3A0xcf9ef3dd8e74dddb!2s7-ch%C5%8Dme-15-22%20%C5%8Cjima%2C%20Koto%20City%2C%20Tokyo%20136-0072!5e0!3m2!1sen!2sjp!4v1769943156435!5m2!1sen!2sjp",
   "hostName": "Sachiko",
-  "hostImageUrl": "https://sachihouse-ojima.net/wp-content/uploads/2025/03/IMG_0877.jpeg",
+  "hostImageUrl": "https://storage.googleapis.com/sachihous07/IMG_0877.jpeg",
   "isSuperhost": true,
   "superhostSince": "2025",
   "themeColor": "booking",
@@ -490,6 +490,6 @@
     "repo": "sachihouse.app",
     "branch": "main",
     "path": "public/data.json",
-    "encryptedToken": "Ez4sK+XxBRioR/abcASNtA==:9ZolmP7MGyGrA51k:xE8GCmAU/19AcedeGkYHVVTrC6C1efGSOca0YHYWBjrK6fAD/V0lbk2v0YMp0/2J7l7aKlVOpk8="
+    "encryptedToken": "vOJqUKZkdYLOOj4TvwU66A==:VHP9HRaHRzEZlx2V:XgSv7pMjLQLc0yQJrmw7LB52JsJnG0VDn/M93Zwg8cFxZAzPoQlE4gSDIN7OOn55TpBt8X839lw="
   }
 }
